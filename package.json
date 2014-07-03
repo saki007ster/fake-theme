@@ -1,7 +1,7 @@
 {
   "name": "fake-theme",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Fake dark theme for atom.",
   "repository": "https://github.com/saki007ster/fake-theme",
   "license": "MIT",
